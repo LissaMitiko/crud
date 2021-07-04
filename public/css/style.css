@@ -1,0 +1,43 @@
+body{
+    background-color: #034f84;
+    font-family: 'Dosis', sans-serif;
+
+}
+
+#container-show{
+    width: 900px;
+    height: 750px;
+    background-color: powderblue;
+    margin: 10px 100px 10px 200px;
+    border-radius: 15px;
+    padding: 50px 80px 10px 80px;
+}
+
+#container-edit{
+    width: 900px;
+    height: 750px;
+    background-color: powderblue;
+    margin: 10px 100px 10px 200px;
+    border-radius: 15px;
+    padding: 50px 80px 10px 80px;
+}
+
+#create{
+    width: 900px;
+    height: 750px;
+    background-color: powderblue;
+    margin: 10px 100px 10px 200px;
+    border-radius: 15px;
+    padding: 50px 80px 10px 80px;
+}
+
+.container{
+    width: 900px;
+    height: 750px;
+    background-color: aliceblue;
+    margin: 10px 100px 10px 200px;
+    border-radius: 15px;
+    padding: 50px 80px 10px 80px;
+}
+
+
